@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "ts": "tsc --noEmit",
     "prepare": "husky",
-       "commitlint": "commitlint --config commitlint.config.js -e -V"
+    "commitlint": "commitlint --config commitlint.config.js -e -V"
   },
   "lint-staged":{
     "src/**/*.{js,jsx,ts,tsx,json}": [
