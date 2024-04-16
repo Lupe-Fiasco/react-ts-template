@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-    return <>fuvk</>;
+    return <>fuvk888a0</>;
 }
 
 export default App;
